@@ -10,7 +10,7 @@ The original Weka software is necessary: https://www.cs.waikato.ac.nz/ml/weka/
 
 
 ### Cite this software as:
- **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Instance selection for regression by discretization._ Expert Systems with Applications, 54, 340-350. [doi: 10.1016/j.eswa.2015.12.046](doi: 10.1016/j.eswa.2015.12.046)
+ **Á. Arnaiz-González, J-F. Díez Pastor, Juan J. Rodríguez, C. García Osorio.** _Instance selection for regression by discretization._ Expert Systems with Applications, 54, 340-350. [doi: 10.1016/j.eswa.2015.12.046](https://doi.org/10.1016/j.eswa.2015.12.046)
 
 ```
 @article{ArnaizGonzalez2016,
